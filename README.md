@@ -82,8 +82,7 @@ this is a basic local authentication system that enforces password requirements,
 
 add-ons/plugins acknowledgements
 
-* [![Tkinter][Tkinter][Tkinter-url]]
-
+* [![Tkinter][Tkinter]][Tkinter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
