@@ -91,7 +91,7 @@ add-ons/plugins acknowledgements
 <!-- GETTING STARTED -->
 ## Getting Started
 
-These are the steps abd orerequistes to run out game
+These are the steps and prerequistes to run the program
 
 ### Prerequisites
 
@@ -99,7 +99,7 @@ These are the steps abd orerequistes to run out game
 
 ### Installation
 
-1. go to where you downloaded main.py
+1. go to where you downloaded main.py (Make sure Login.py is in the same folder)
 2. open cmd
 2. enter: ``` python3 main.py ```
 
@@ -110,7 +110,7 @@ These are the steps abd orerequistes to run out game
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-//
+#
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,9 +120,12 @@ These are the steps abd orerequistes to run out game
 ## Roadmap
 
 - [x] Base Logic
-- [x] Points Calculation
-- [ ] Hit or Stand Fuctionalaty
-- [ ] Add a GUI
+- [x] Create users
+- [x] Store user and password locally
+- [x] add encryption
+- [x] add password salts(add random characters) to the password
+- [x] split function into a diffirent file (make the code look cleaner)
+- [ ] Gui integration with Tkinter
 
 
 See the [open issues](https://github.com/joKid21/blackjack/issues) for a full list of proposed features (and known issues).
