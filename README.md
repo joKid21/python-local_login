@@ -25,7 +25,7 @@
   <h3 align="center">Secure Local Login</h3>
 
   <p align="center">
-    Create a basic local authentication system that enforces password requirements, enhances security through salting (adding random characters), and employs MD5 hashing for password encryption
+    basic local authentication system
     <br />
     <a href="https://github.com/joKid21/secure-local-login"><strong>Explore the docs »</strong></a>
     <br />
