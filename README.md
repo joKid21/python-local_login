@@ -25,7 +25,7 @@
   <h3 align="center">Secure Local Login</h3>
 
   <p align="center">
-    basic local authentication system
+    Basic local authentication system.
     <br />
     <a href="https://github.com/joKid21/secure-local-login"><strong>Explore the docs »</strong></a>
     <br />
