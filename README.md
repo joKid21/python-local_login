@@ -1,2 +1,2 @@
 # python-local_login
-a simple local login system with encryption and obfuscation, it salts the password(this is adding random letters and numbers) before encrypting it with the md5 algorithm 
+Create a basic local authentication system that enforces password requirements, enhances security through salting (adding random characters), and employs MD5 hashing for password encryption
