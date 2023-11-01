@@ -202,4 +202,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Tkinter]: https://img.shields.io/badge/tktools-0.16.0-blue
-[Tkinter-url]: [https://pypi.org/project/pick/](https://pypi.org/project/tk-tools/)https://pypi.org/project/tk-tools/
+[Tkinter-url]: https://pypi.org/project/tk-tools/)https://pypi.org/project/tk-tools
