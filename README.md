@@ -82,7 +82,8 @@ this is a basic local authentication system that enforces password requirements,
 
 add-ons/plugins acknowledgements
 
-//
+* [![Tkinter][Tkinter][Tkinter-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,5 +201,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[pick]: https://img.shields.io/badge/pick-2.2.0-blue
-[pick-url]: https://pypi.org/project/pick/
+[pick]: https://img.shields.io/badge/tk-tools-0.16.0-blue
+[pick-url]: [https://pypi.org/project/pick/](https://pypi.org/project/tk-tools/)https://pypi.org/project/tk-tools/
